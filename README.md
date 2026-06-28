@@ -1,17 +1,15 @@
-# 💻 Кирилл Прохоров| Backend Developer
-
-<p align="center">
-  <img src="[https://i.pinimg.com/originals/bb/b7/a3/bbb7a3a6f9b8c7d5e6f4a3b2c1d0e9f8.gif](https://images.launchbox-app.com/6eedb767-6921-41d6-bb42-1b701df1e022.jpg)" width="100%" style="border-radius: 8px;">
-</p>
-
 <div align="center">
-  <h3>⚡ "Code is poetry, performance is art"</h3>
+  <h1>Кирилл Прохоров | Backend Developer</h1>
 </div>
 
----
+<p align="center">
+  <img src="BloodRayneBanner.jpg" width="100%" style="border-radius: 8px;">
+</p>
 
 
-### 👨‍💻 О себе
+<div align="center">
+  <h1>About me</h1>
+</div>
 
 **Кирилл Прохоров* | Backend-разработчик
 
@@ -22,9 +20,9 @@
 - 📌 **Статус:** Открыт к интересным предложениям!
 
 
----
-
-### 🛠️ Технологический стек
+<div align="center">
+  <h1>Tech stack</h1>
+</div>
 
 <table align="center">
   <tr>
@@ -65,18 +63,20 @@
   </tr>
 </table>
 
----
 
-### 📊 GitHub Статистика
+<div align="center">
+  <h1>Github Statistick</h1>
+</div>
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zxcblazee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcblazee&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" />
 </div>
 
----
 
-### 🚀 Ключевые проекты
+<div align="center">
+  <h1>Projects</h1>
+</div>
 
 | Название | Стек | Описание |
 |----------|------|----------|
@@ -84,15 +84,18 @@
 | **[Sakura-Website]** | `Python` `FastAPI` `PostgreSQL` | REST API для автоматизации документооборота |
 | **[Веб-интерфейсы]** | `JS` `HTML` `CSS` | Адаптивные корпоративные панели |
 
----
 
-### 📈 Активность за последнюю неделю
 
-[![wakatime](https://wakatime.com/badge/user/ваш_ид.svg)](https://wakatime.com/@ваш_ид)
+<div align="center">
+  <h1>My activity at last weak</h1>
+</div>
 
----
+[![wakatime](https://wakatime.com/badge/user/zxcblazee.svg)](https://wakatime.com/@zxcblazee)
 
-### 📫 Связь
+
+<div align="center">
+  <h1>Social</h1>
+</div>
 
 <div align="center">
   <a href="https://t.me/zxcblazee">
@@ -106,7 +109,6 @@
   </a>
 </div>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zxcblazee&label=Просмотров+профиля&color=0e75b6&style=flat" alt="счетчик просмотров" />
