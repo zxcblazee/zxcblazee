@@ -1,24 +1,25 @@
 <div align="center">
-  <h1>Кирилл Прохоров | Backend Developer</h1>
+  <h1>Kirill Prokhorov | Backend Developer</h1>
 </div>
 
 <p align="center">
   <img src="BloodRayneBanner.jpg" width="100%" style="border-radius: 8px;">
 </p>
 
-
 <div align="center">
   <h1>About me</h1>
 </div>
 
-**Кирилл Прохоров* | Backend-разработчик
+**Kirill Prokhorov** | Backend Developer
 
-- 🎓 **Образование:** 4 курс бакалавриата
-- 💼 **Опыт:** 
-- ⚡ **Специализация:** C#
-- 🎯 **Фокус:** 
-- 📌 **Статус:** Открыт к интересным предложениям!
+- 🎓 **Education:** 9 years of secondary education + Vocational Secondary Education (College)
+- 🎂 **Age:** 19
+- 💼 **Experience:** Looking for first commercial experience
+- ⚡ **Specialization:** C#, .NET Core, Backend Development
+- 🎯 **Focus:** Building scalable APIs and microservices
+- 📌 **Status:** Open to internships and junior positions
 
+---
 
 <div align="center">
   <h1>Tech stack</h1>
@@ -33,10 +34,6 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48">
       <br><strong>Python</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48">
-      <br><strong>PostgreSQL</strong>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48">
@@ -63,9 +60,10 @@
   </tr>
 </table>
 
+---
 
 <div align="center">
-  <h1>Github Statistick</h1>
+  <h1>GitHub Statistics</h1>
 </div>
 
 <div align="center">
@@ -73,6 +71,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcblazee&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" />
 </div>
 
+---
 
 <div align="center">
   <h1>Projects</h1>
@@ -84,14 +83,7 @@
 | **[Sakura-Website]** | `Python` `FastAPI` `PostgreSQL` | REST API для автоматизации документооборота |
 | **[Веб-интерфейсы]** | `JS` `HTML` `CSS` | Адаптивные корпоративные панели |
 
-
-
-<div align="center">
-  <h1>My activity at last weak</h1>
-</div>
-
-[![wakatime](https://wakatime.com/badge/user/zxcblazee.svg)](https://wakatime.com/@zxcblazee)
-
+---
 
 <div align="center">
   <h1>Social</h1>
@@ -101,15 +93,7 @@
   <a href="https://t.me/zxcblazee">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:ваша-почта@gmail.com">
+  <a href="mailto:kounter20.peps@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ваш-профиль">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </div>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zxcblazee&label=Просмотров+профиля&color=0e75b6&style=flat" alt="счетчик просмотров" />
-</p>
