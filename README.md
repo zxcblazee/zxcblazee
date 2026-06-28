@@ -120,9 +120,9 @@
 
 | Название | Описание |
 |----------|----------|
-| **[**`FinanceTracker`**](https://github.com/zxcblazee/FinanceTracker)** | <p align="center"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />... |
-| **[**`ServiceCenterWPF`**](https://github.com/zxcblazee/ServiceCenterWPF)** | <p align="center"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />... |
-
+| **[FinanceTracker](https://github.com/zxcblazee/FinanceTracker)** | Десктопное приложение для учета личных финансов на C# и WPF. Позволяет отслеживать доходы и расходы, строить графики и управлять бюджетом. |
+| **[ServiceCenterWPF](https://github.com/zxcblazee/ServiceCenterWPF)** | WPF-приложение для автоматизации сервисного центра. Управление заявками, клиентами, оборудованием и отчетностью. |
+<!-- PROJECTS_END -->
 
 ---
 
