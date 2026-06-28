@@ -1,10 +1,7 @@
-Согласен, выглядит как обычный текстовый файл. Сделаем **реально крутой** профиль с нормальной версткой, иконками, графиками и профессиональным видом. Вот готовый код, который выглядит как настоящее портфолио:
-
-```markdown
-# 💻 Сергей Захаров | Backend Developer
+# 💻 Кирилл Прохоров| Backend Developer
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bb/b7/a3/bbb7a3a6f9b8c7d5e6f4a3b2c1d0e9f8.gif" width="100%" style="border-radius: 8px;">
+  <img src="[https://i.pinimg.com/originals/bb/b7/a3/bbb7a3a6f9b8c7d5e6f4a3b2c1d0e9f8.gif](https://images.launchbox-app.com/6eedb767-6921-41d6-bb42-1b701df1e022.jpg)" width="100%" style="border-radius: 8px;">
 </p>
 
 <div align="center">
@@ -13,20 +10,17 @@
 
 ---
 
+
 ### 👨‍💻 О себе
 
-```python
-class BackendDeveloper:
-    def __init__(self):
-        self.name = "Сергей Захаров"
-        self.experience = "4 года коммерческой разработки"
-        self.specialization = ["C#", "Python", "SQL", "Microservices"]
-        self.current_focus = "Распределенные системы и высоконагруженные API"
-        self.education = "4 курс (бакалавриат)"
-    
-    def say_hi(self):
-        return "Открыт к интересным предложениям!"
-```
+**Кирилл Прохоров* | Backend-разработчик
+
+- 🎓 **Образование:** 4 курс бакалавриата
+- 💼 **Опыт:** 
+- ⚡ **Специализация:** C#
+- 🎯 **Фокус:** 
+- 📌 **Статус:** Открыт к интересным предложениям!
+
 
 ---
 
@@ -94,7 +88,6 @@ class BackendDeveloper:
 
 ### 📈 Активность за последнюю неделю
 
-<!-- Блок с реальной статистикой от WakaTime (опционально) -->
 [![wakatime](https://wakatime.com/badge/user/ваш_ид.svg)](https://wakatime.com/@ваш_ид)
 
 ---
@@ -118,6 +111,3 @@ class BackendDeveloper:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zxcblazee&label=Просмотров+профиля&color=0e75b6&style=flat" alt="счетчик просмотров" />
 </p>
-```
-
----
