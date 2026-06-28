@@ -120,8 +120,8 @@
 
 | Название | Описание |
 |----------|----------|
-| **[**`Handshake`**](https://github.com/zxcblazee/handshake-)** | *(README не найден)* |
-| **[**`Sakura-Website`**](https://github.com/zxcblazee/Sakura-website)** | *(README не найден)* |
+| **[**`FinanceTracker`**](https://github.com/zxcblazee/FinanceTracker)** | <p align="center"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />... |
+| **[**`ServiceCenterWPF`**](https://github.com/zxcblazee/ServiceCenterWPF)** | <p align="center"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />... |
 
 
 ---
