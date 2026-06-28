@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg](https://yandex.ru/images/search?pos=1&from=tabbar&img_url=https%3A%2F%2Fcws.auburn.edu%2Fshared%2Ffiles%3Fid%3D307%26filename%3Daspnet_new_logo.png&text=asp+net&rpt=simage&lr=46)" width="48">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="48">
       <br><strong>ASP.NET</strong>
     </td>
     <td align="center" width="100">
@@ -94,7 +94,7 @@
       <br><strong>SQLite</strong>
     </td>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/color/48/000000/adonet.png" width="48">
+      <img src="https://img.icons8.com/color/48/000000/database.png" width="48">
       <br><strong>ADO.NET</strong>
     </td>
   </tr>
@@ -113,15 +113,16 @@
 
 ---
 
+<!-- PROJECTS_START -->
 <div align="center">
   <h1>Projects</h1>
 </div>
 
-| Название | Стек | Описание |
-|----------|------|----------|
-| **[Handshake]** | `C#` `ASP.NET` `MSSQL` | Микросервисная система обмена данными |
-| **[Sakura-Website]** | `Python` `FastAPI` `PostgreSQL` | REST API для автоматизации документооборота |
-| **[Веб-интерфейсы]** | `JS` `HTML` `CSS` | Адаптивные корпоративные панели |
+| Название | Описание |
+|----------|----------|
+| **[**`Handshake`**](https://github.com/zxcblazee/handshake-)** | *(README не найден)* |
+| **[**`Sakura-Website`**](https://github.com/zxcblazee/Sakura-website)** | *(README не найден)* |
+
 
 ---
 
