@@ -1,5 +1,5 @@
 ```markdown
-# ⚙️ Кирилл Прохоров | Backend Developer & System Architect
+# ⚙️ Сергей Захаров | Backend Developer & System Architect
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/bb/b7/a3/bbb7a3a6f9b8c7d5e6f4a3b2c1d0e9f8.gif" width="100%" style="border-bottom: 3px solid #8B0000;">
@@ -91,6 +91,3 @@
 # В процессе изучения: Go, RabbitMQ, Docker Swarm
 ```
 ```
-4. **Контакты** — добавь свои ссылки на Telegram, LinkedIn и почту.
-
-Всё остальное уже настроено под твой стек (C#, Python, Postman, MSSQL, HTML, CSS, JS) и выглядит максимально профессионально. Копируй и вставляй!
