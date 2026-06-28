@@ -1,93 +1,123 @@
+Согласен, выглядит как обычный текстовый файл. Сделаем **реально крутой** профиль с нормальной версткой, иконками, графиками и профессиональным видом. Вот готовый код, который выглядит как настоящее портфолио:
+
 ```markdown
-# ⚙️ Сергей Захаров | Backend Developer & System Architect
+# 💻 Сергей Захаров | Backend Developer
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bb/b7/a3/bbb7a3a6f9b8c7d5e6f4a3b2c1d0e9f8.gif" width="100%" style="border-bottom: 3px solid #8B0000;">
+  <img src="https://i.pinimg.com/originals/bb/b7/a3/bbb7a3a6f9b8c7d5e6f4a3b2c1d0e9f8.gif" width="100%" style="border-radius: 8px;">
 </p>
 
-### `> whoami`
+<div align="center">
+  <h3>⚡ "Code is poetry, performance is art"</h3>
+</div>
 
-```bash
-> Backend-разработчик с 4-летним опытом коммерческой разработки.
-> Специализация: Высоконагруженные бекенд-решения, интеграция с внешними API, оптимизация запросов к БД.
-> Текущий фокус: C# .NET Core, Python (FastAPI), распределенные системы и микросервисы.
+---
+
+### 👨‍💻 О себе
+
+```python
+class BackendDeveloper:
+    def __init__(self):
+        self.name = "Сергей Захаров"
+        self.experience = "4 года коммерческой разработки"
+        self.specialization = ["C#", "Python", "SQL", "Microservices"]
+        self.current_focus = "Распределенные системы и высоконагруженные API"
+        self.education = "4 курс (бакалавриат)"
+    
+    def say_hi(self):
+        return "Открыт к интересным предложениям!"
 ```
 
 ---
 
-### 🧬 Технологический стек
+### 🛠️ Технологический стек
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      <br>C#
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48">
+      <br><strong>C#</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48">
+      <br><strong>Python</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48">
+      <br><strong>PostgreSQL</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48" alt="Postman" />
-      <br>Postman
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48">
+      <br><strong>.NET Core</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MSSQL" />
-      <br>MSSQL
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48">
+      <br><strong>Docker</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48">
+      <br><strong>Git</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48">
+      <br><strong>HTML5</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JS" />
-      <br>JS
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48">
+      <br><strong>CSS3</strong>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Метрики продуктивности
+### 📊 GitHub Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxcblazee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=ffffff&ring_color=cc0000&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcblazee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=cc0000&text_color=ffffff&cache_seconds=1800" height="170" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zxcblazee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcblazee&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" />
 </div>
 
 ---
 
-### 🗄️ Ключевые проекты
+### 🚀 Ключевые проекты
 
 | Название | Стек | Описание |
-| :--- | :--- | :--- |
-| **[Handshake]** | `C#` `ASP.NET Core` `MSSQL` | Микросервисная система обмена данными между контрагентами |
-| **[Sakura]** | `Python` `FastAPI` `PostgreSQL` | Бэкенд для автоматизации документооборота с REST API |
-| **[Веб-интерфейсы]** | `JS` `HTML` `CSS` | Адаптивные корпоративные панели управления |
+|----------|------|----------|
+| **[Handshake]** | `C#` `ASP.NET` `MSSQL` | Микросервисная система обмена данными |
+| **[Sakura-Website]** | `Python` `FastAPI` `PostgreSQL` | REST API для автоматизации документооборота |
+| **[Веб-интерфейсы]** | `JS` `HTML` `CSS` | Адаптивные корпоративные панели |
 
 ---
 
-### 📫 Контакты
+### 📈 Активность за последнюю неделю
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zxcblazee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш-профиль)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваша-почта@gmail.com)
+<!-- Блок с реальной статистикой от WakaTime (опционально) -->
+[![wakatime](https://wakatime.com/badge/user/ваш_ид.svg)](https://wakatime.com/@ваш_ид)
 
 ---
 
-### 📌 Текущий статус
+### 📫 Связь
 
-```diff
-+ Активно ищу предложения о работе (Middle/Senior Developer)
-! Открыт к релокации и удаленной работе
-# В процессе изучения: Go, RabbitMQ, Docker Swarm
+<div align="center">
+  <a href="https://t.me/zxcblazee">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:ваша-почта@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ваш-профиль">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zxcblazee&label=Просмотров+профиля&color=0e75b6&style=flat" alt="счетчик просмотров" />
+</p>
 ```
-```
+
+---
