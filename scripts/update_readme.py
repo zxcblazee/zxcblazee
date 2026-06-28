@@ -14,8 +14,8 @@ from pathlib import Path
 USERNAME = "zxcblazee"
 REPO_NAME = "zxcblazee"
 PROJECTS = [
-    {"name": "Handshake", "repo": "handshake-"},
-    {"name": "Sakura-Website", "repo": "Sakura-website"},
+    {"name": "FinanceTracker", "repo": "FinanceTracker"},
+    {"name": "ServiceCenterWPF", "repo": "ServiceCenterWPF"},
     # Добавь сюда свои проекты
 ]
 
