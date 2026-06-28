@@ -1,45 +1,96 @@
-# 🩸 Рейн Эриксон | Охотница на нацистов-оборотней
+```markdown
+# ⚙️ Кирилл Прохоров | Backend Developer & System Architect
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7a/6b/5e/7a6b5e8f9c2d1a3b4e5f6d7c8e9f0a1b.gif" width="100%">
+  <img src="https://i.pinimg.com/originals/bb/b7/a3/bbb7a3a6f9b8c7d5e6f4a3b2c1d0e9f8.gif" width="100%" style="border-bottom: 3px solid #8B0000;">
 </p>
 
-## ⚔️ Статистика истребления
+### `> whoami`
 
-| Параметр | Значение |
-| :--- | :--- |
-| 🔪 **Уничтожено врагов (коммитов)** | **15,000+** |
-| 🩸 **Высосано душ (звезд)** | **420** |
-| 🦷 **Сломано клыков (багов)** | **Бесконечность** |
-
----
-
-### 🗡️ Арсенал Кровавой Рейн (Мой стек)
-
-![Python](https://img.shields.io/badge/PYTHON-8B0000?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-1a1a1a?style=for-the-badge&logo=javascript&logoColor=8B0000)
-![React](https://img.shields.io/badge/REACT-1a1a1a?style=for-the-badge&logo=react&logoColor=8B0000)
-![HTML5](https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=8B0000)
+```bash
+> Backend-разработчик с 4-летним опытом коммерческой разработки.
+> Специализация: Высоконагруженные бекенд-решения, интеграция с внешними API, оптимизация запросов к БД.
+> Текущий фокус: C# .NET Core, Python (FastAPI), распределенные системы и микросервисы.
+```
 
 ---
 
-### 🩸 Статистика Кровавой Луны
+### 🧬 Технологический стек
 
-| Моя мощь | Языки крови |
-| :--- | :--- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcblazee&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcblazee&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117) |
-
-> *"Я не монстр. Я то, что монстры боятся в темноте."* — Рейн
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MSSQL" />
+      <br>MSSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JS" />
+      <br>JS
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🥋 Моя Жажда (Стрик-серия)
+### 📈 Метрики продуктивности
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zxcblazee&theme=dark&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zxcblazee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=ffffff&ring_color=cc0000&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcblazee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=cc0000&text_color=ffffff&cache_seconds=1800" height="170" />
+</div>
 
 ---
 
-### 📜 Книга Некрономикон (Мудрость)
+### 🗄️ Ключевые проекты
 
-[![Anime Quote](https://anime-quotes-api.vercel.app/api/random?theme=dark)](https://github.com/rocketseat/anime-quotes-api)
+| Название | Стек | Описание |
+| :--- | :--- | :--- |
+| **[Handshake]** | `C#` `ASP.NET Core` `MSSQL` | Микросервисная система обмена данными между контрагентами |
+| **[Sakura]** | `Python` `FastAPI` `PostgreSQL` | Бэкенд для автоматизации документооборота с REST API |
+| **[Веб-интерфейсы]** | `JS` `HTML` `CSS` | Адаптивные корпоративные панели управления |
+
+---
+
+### 📫 Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zxcblazee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш-профиль)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваша-почта@gmail.com)
+
+---
+
+### 📌 Текущий статус
+
+```diff
++ Активно ищу предложения о работе (Middle/Senior Developer)
+! Открыт к релокации и удаленной работе
+# В процессе изучения: Go, RabbitMQ, Docker Swarm
+```
+```
+4. **Контакты** — добавь свои ссылки на Telegram, LinkedIn и почту.
+
+Всё остальное уже настроено под твой стек (C#, Python, Postman, MSSQL, HTML, CSS, JS) и выглядит максимально профессионально. Копируй и вставляй!
