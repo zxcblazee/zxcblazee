@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/9c/7b/9b/9c7b9b4b5c6d7e8f9a0b1c2d3e4f5a6c.gif">
   <img alt="Аниме-баннер" src="https://i.pinimg.com/originals/8b/6a/8a/8b6a8a4b5c6d7e8f9a0b1c2d3e4f5a6b.gif">
 </picture>
-## 🏯 Конничива, я <Ваш_никнейм>! 
+## 🏯 Конничива, я <zxcblazee>! 
 ## `<< sysadmin >>` || `<< frontend_ninja >>` 
 
 **⚡ Статистика моего аниме-ранга:**
@@ -23,13 +23,13 @@
 
 | Метрика | Значение |
 | :--- | :--- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=radical) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcblazee&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcblazee&layout=compact&theme=radical) |
 
 > *"Чтобы стать Хокаге, нужно много коммитить и не бояться Merge-конфликтов"* — Наруто Узумаки, 2026
 
 ### 🥋 Мой последний прием (Стрик):
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_НИК&theme=dark&hide_border=true&background=0d1117&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zxcblazee&theme=dark&hide_border=true&background=0d1117&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)](https://git.io/streak-stats)
 
 ### 📜 Свиток мудрости:
 
