@@ -36,19 +36,15 @@
       <br><strong>Python</strong>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48">
-      <br><strong>.NET Core</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48">
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48">
+      <br><strong>Kotlin</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48">
-      <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48">
-      <br><strong>Git</strong>
-    </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48">
       <br><strong>HTML5</strong>
@@ -56,6 +52,50 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48">
       <br><strong>CSS3</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48">
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48">
+      <br><strong>MSSQL</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg](https://yandex.ru/images/search?pos=1&from=tabbar&img_url=https%3A%2F%2Fcws.auburn.edu%2Fshared%2Ffiles%3Fid%3D307%26filename%3Daspnet_new_logo.png&text=asp+net&rpt=simage&lr=46)" width="48">
+      <br><strong>ASP.NET</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="48">
+      <br><strong>.NET</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48">
+      <br><strong>Unity</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48">
+      <br><strong>Docker</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48">
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48">
+      <br><strong>Postman</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48">
+      <br><strong>SQLite</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/adonet.png" width="48">
+      <br><strong>ADO.NET</strong>
     </td>
   </tr>
 </table>
